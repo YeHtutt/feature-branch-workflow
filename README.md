@@ -1,3 +1,3 @@
 # feature-branch-workflow
-For learning git purposes. 
-Featured working with branches, Pull-request etc. 
+For learning Github purposes. 
+Featured working with Branches, Pull-request and Forking. 
